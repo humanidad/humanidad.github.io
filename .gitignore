@@ -9,5 +9,6 @@
 /.idea/vcs.xml
 /.vscode/settings.json
 /.vscode/
+/.jekyll-cache/
 /.idea/
 .liquidrc
